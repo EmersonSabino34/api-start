@@ -17,6 +17,16 @@ npm install json-server
     "categoria": [
         { 
             "id": 1, 
+            "nome": "notebook"
+        },
+        {
+            "id": 2,
+            "nome": "games"
+        }
+    ],
+ "produtos": [
+        { 
+            "id": 1, 
             "nome": "notebook core i3",
             "qtde": 10,
             "preco": 1500.00
