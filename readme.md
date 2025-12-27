@@ -43,7 +43,6 @@ npm install json-server
 ```
 npx json-server banco.json
 ```
-
 ### Testando rotas
     * get -->    http://localhost:3000/login
     * put -->    http://localhost:3000/login
