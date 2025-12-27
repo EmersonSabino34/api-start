@@ -60,7 +60,6 @@ npx json-server banco.json
 ```
 npm create vite@latest
 ```
-
 * instalar as dependencies
 ```
 npm install
