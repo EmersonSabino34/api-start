@@ -64,7 +64,6 @@ npm create vite@latest
 ```
 npm install
 ```
-
 * rodar o projeto
 ```
 npm run dev
