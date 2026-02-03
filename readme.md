@@ -1,7 +1,6 @@
 CRUD
-
-    R -> READ
     C -> CREATE
+     R -> READ
     U -> UPDATE
     D -> DELETE
 
