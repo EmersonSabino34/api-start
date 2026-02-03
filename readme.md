@@ -1,4 +1,5 @@
 CRUD
+
     R -> READ
     C -> CREATE
     U -> UPDATE
