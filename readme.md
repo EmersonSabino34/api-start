@@ -14,7 +14,6 @@ npm install json-server
 * criando arquivo banco
 ```
 {
-
     "categoria": [
         { 
             "id": 1, 
