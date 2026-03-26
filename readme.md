@@ -7,7 +7,6 @@ CRUD
 
 ### criando api
 
-
 * json-server
 ```
 npm install json-server
