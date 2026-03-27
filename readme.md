@@ -40,7 +40,6 @@ npm install json-server
     ]
 }
 ```
-
 * rodar a api
 ```
 npx json-server banco.json
