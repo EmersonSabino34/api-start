@@ -9,6 +9,7 @@ CRUD
 
 * json-server
 ```
+
 npm install json-server
 ```
 * criando arquivo banco
