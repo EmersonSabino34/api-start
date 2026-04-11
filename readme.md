@@ -1,4 +1,5 @@
 CRUD
+
     C -> CREATE
      R -> READ
     U -> UPDATE
