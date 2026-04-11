@@ -51,7 +51,6 @@ npx json-server banco.json
     * post -->   http://localhost:3000/login
     * delete --> http://localhost:3000/login
 
-
 * get -->  READ     --> listar
 * put -->  UPDATE   --> atualizar
 * post --> CREATE   --> inserir
