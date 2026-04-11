@@ -56,6 +56,7 @@ npx json-server banco.json
 * post --> CREATE   --> inserir
 * delete --> DELETE --> deletar
 
+
     * patch
 ### Criando projeto
 * comando
